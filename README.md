@@ -6,7 +6,7 @@ kulkas mendeteksi pintu terbuka; kalau terbuka lebih dari 30 detik, buzzer
 berbunyi, LED merah menyala, LCD menampilkan sudah berapa lama pintunya
 terbuka, dan notifikasi Telegram terkirim ke HP.
 
-Video Short (60 detik): link menyusul setelah upload.
+Video Short (60 detik): https://www.youtube.com/shorts/e9m6Yd23NVo
 
 ## Cara kerja
 
